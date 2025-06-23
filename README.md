@@ -1,3 +1,4 @@
+
 # 100 Days of Code: Python Bootcamp Projects
 
 This repository contains my work from **Day 1 to Day 59** of the [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/). Each project demonstrates core concepts in Python programming, automation, web scraping, GUI development, APIs, and more.
@@ -70,4 +71,7 @@ Feel free to connect or ask questions:
 ---
 
 ⭐️ If you like this repo, please consider starring it!
+
+=======
+# 100-days-of-code-python
 
