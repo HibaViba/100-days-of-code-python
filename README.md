@@ -1,4 +1,23 @@
+# 100 Days of Code: Python Bootcamp Projects
 
+## 👩‍💻 About Me
+
+I’m currently pursuing a **Master’s degree in Mechatronics and Robotics** at a German university.  
+I also hold a **Master’s degree in Electrical and Embedded Systems Engineering**, officially recognized in Germany.
+
+This repository showcases my work through the **100 Days of Code: Python Bootcamp**, with over 50+ projects covering:
+
+- Python fundamentals
+- Automation scripts
+- API integration
+- GUI development
+- Web scraping
+- Data handling
+- Test automation concepts
+
+I’m actively seeking **internship or working student roles** in Test Automation, Embedded Systems, or Robotics.
+
+---
 # 100 Days of Code: Python Bootcamp Projects
 
 This repository contains my work from **Day 1 to Day 59** of the [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/). Each project demonstrates core concepts in Python programming, automation, web scraping, GUI development, APIs, and more.
